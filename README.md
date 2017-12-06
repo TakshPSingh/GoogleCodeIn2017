@@ -1,3 +1,2 @@
 # GoogleCodeIn2017
-
-Sending my first pull request
+Here is my GitHub link https://github.com/TakshPSingh
