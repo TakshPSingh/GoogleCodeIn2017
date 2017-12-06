@@ -1,3 +1,3 @@
-My Github link : https://github.com/TakshPSingh
+hMy Github link : https://github.com/TakshPSingh
 
-Thanks for te task:) I really learned a lot.
+Thanks for the task:) I really learned a lot.
